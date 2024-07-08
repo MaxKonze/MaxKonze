@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Github and SQLite**
 
-- 📝 In the future I want to learn **Python web devolopment** & **Arduino or Rasberry Pi**
+- 📝 In the future I want to learn **Python web devolopment (Django)** & **Arduino or Rasberry Pi**
 
 
 <h3 align="left">Languages and Tools:</h3>
