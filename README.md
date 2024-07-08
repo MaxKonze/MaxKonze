@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Konze</h1>
 <h3>I´m a 16 y/o Python enthusiast from Germany</h3>
 
-- 🔭 I’m currently working on **a todo list**
+- 🔭 I’m currently working on **a todo list** in Python
 
 - 🌱 I’m currently learning **Python, Github and SQLite**
 
