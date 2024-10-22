@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a website** in Python/Django
 
-- 🌱 I’m currently learning **Python, Github and SQLite**
+- 🌱 I’m currently learning **Python & Django**
 
-- 📝 In the future I want to learn **Python web devolopment (Django)** & **Arduino or Rasberry Pi**
+- 📝 In the future I want to learn **SQL** & **Arduino or Rasberry Pi** & **Docker**
 
 
 <h3 align="left">Languages and Tools:</h3>
