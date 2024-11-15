@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & Django**
 
-- 📝 In the future I want to learn **Rasberry Pi** & **Docker** & **App Development**
+- 📝 In the future I want to learn **Rasberry Pi**, **Docker** & **App Development**
 
 
 <h3 align="left">Languages and Tools:</h3>
