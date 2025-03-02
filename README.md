@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Max Konze</h1>
 <h3>I´m a 16 y/o Python enthusiast from Germany</h3>
 
-- 🔭 I’m currently working on **a website** in Python/Django
+- 🔭 I’m currently working on **a smart Doorblick with my Raspberry Pi** using FastApi and RGPIO
 
-- 🌱 I’m currently learning **Python & Django**
+- 🌱 I’m currently learning **FastApi**
 
-- 📝 In the future I want to learn **Rasberry Pi**, **Docker** & **App Development**
+- 📝 In the future I want to learn **Docker** & **App Development**
 
 
 <h3 align="left">Languages and Tools:</h3>
