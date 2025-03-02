@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Konze</h1>
-<h3>I´m a 16 y/o Python enthusiast from Germany</h3>
+<h3>I´m a 17 y/o Python enthusiast from Germany</h3>
 
 - 🔭 I’m currently working on **a smart Doorblick with my Raspberry Pi** using FastApi and RGPIO
 
